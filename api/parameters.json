@@ -2,17 +2,23 @@
     "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
-      "project_sufix": {
-        "value": "your_project_suffix"
+      "project_suffix": {
+        "value": "matrixgo"
       },
       "az_location": {
-        "value": "your_azure_location"
+        "value": "centralindia"
       },
       "github_client_id": {
-        "value": "your_github_client_id"
+        "value": "Ov23lihFxaz9hd9N3tYA"
       },
       "github_client_secret": {
-        "value": "your_github_client_secret"
+        "value": "4e31f1ae03329782666540f7c1d22a0be6078e07"
+      },
+      "microsoft_client_id": {
+        "value": ""
+      },
+      "microsoft_client_secret": {
+        "value": ""
       },
       "logging": {
         "value": true
